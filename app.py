@@ -121,7 +121,7 @@ def main():
         st.subheader("Classificacao de uma base de dados de cogumelos")
         st.write(df)
         st.markdown(
-            "Essa [base dados](https://archive.ics.uci.edu/ml/datasets/Mushroom) inclui demonstrações de amostras hipoteticas correspondente a 23 especies de cogumelos com guelra "
+            "Essa [base de dados](https://archive.ics.uci.edu/ml/datasets/Mushroom) inclui demonstrações de amostras hipoteticas correspondente a 23 especies de cogumelos com guelra "
             "Na familia Agaricus and Lepiota (pp. 500-525). Cada especie é identificada como definitivamente comestivel, ou definitivamente venenosa, "
             "ou se não se sabe se é comestivel. Essa aula os dados foram combinados com o de cogumelos venenosos. Pagina criada por Israel Andrade")
 
